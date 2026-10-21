@@ -28,13 +28,6 @@ fixed_density_Ga2O3_PBE0/
 **Note:** the fixed-density XYZ files do not contain the cell. Use the cubic cell
 a = b = c = 16.75 Å (V = 4699.42 Å³) with periodic boundary conditions, e.g. in ASE:
 
-```python
-from ase.io import read
-atoms = read("fixed_density_Ga2O3_PBE0/GaO_st1.xyz")
-atoms.set_cell([16.75, 16.75, 16.75])
-atoms.pbc = True
-```
-
 ## How the structures were generated
 
 ### Classical molecular dynamics (LAMMPS)
