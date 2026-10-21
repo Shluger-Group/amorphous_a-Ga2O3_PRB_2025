@@ -1,0 +1,7 @@
+#structure volume (a^3) density g/cm^3 using PBE0
+all	4699.42 	5.30
+
+CELL
+     A  16.75      0.000    0.000
+     B  0         16.75     0.000
+     C  0.00      0.00     16.75
