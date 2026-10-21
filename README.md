@@ -6,7 +6,7 @@ Atomic structures of amorphous Ga₂O₃ (a-Ga₂O₃) used in:
 > *Electronic structure and properties of trapped holes in crystalline and amorphous Ga₂O₃*,
 > Phys. Rev. B **111**, 035203 (2025). https://doi.org/10.1103/PhysRevB.111.035203
 
-Each set contains 20 periodic models of 400 atoms (Ga₁₆₀O₂₄₀). All coordinates are in Å.
+Each set contains 20 periodic models of 400 atoms (Ga₂O₃). All coordinates are in Å.
 
 ## Contents
 
