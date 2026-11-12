@@ -91,5 +91,5 @@ These data are released under the [Creative Commons Attribution 4.0 Internationa
 
 ## Contact
 
-Chaiyawat Kaewmeechai — chaiyawat.kaewmeechai.20@ucl.ac.uk
+Chaiyawat Kaewmeechai — chaiyawat.kaewmeechai.20[dot]alumni.ucl.ac.uk
 Shluger Group, Department of Physics and Astronomy, University College London
